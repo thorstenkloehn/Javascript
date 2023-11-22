@@ -1,3 +1,4 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'de-de'
+title = 'Javascript'
+theme =["github.com/thorstenkloehn/ahrensburg-themen"]
