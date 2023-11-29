@@ -13,5 +13,6 @@ menu:
 # Installieren von Node.js
 ## Ubuntu
 * [Node.js installieren](https://github.com/nodesource/distributions/blob/master/README.md)
+* [Link](https://www.linkedin.com/learning/paths/javascript-entwickler-in-werden?leis=LTI&u=72605090)
 
 
